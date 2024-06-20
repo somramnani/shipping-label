@@ -26,7 +26,7 @@ The Shipping Label project is a React application designed to generate a shippin
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/ShippingLabel.git
+   git clone https://github.com/somramnani/shipping-label.git
    ```
 
 2. Navigate to the project directory:
