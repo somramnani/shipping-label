@@ -32,7 +32,7 @@ The Shipping Label project is a React application designed to generate a shippin
 2. Navigate to the project directory:
 
    ```sh
-   cd ShippingLabel
+     cd shipping-label
    ```
 
 3. Install dependencies:
